@@ -9,7 +9,7 @@ The course topics are organized in three main parts:
 2. Machine and Deep Learning in the IoT,
 3. Data exchange.
 
-Technologies adopted: `Tensorflow`, `Pytorch`, `Keras`, `Deepnote`
+Technologies adopted: `Tensorflow`, `Pytorch`, `Keras`
 
 ---
 
