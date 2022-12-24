@@ -11,6 +11,14 @@ The course topics are organized in three main parts:
 
 Technologies adopted: `Tensorflow`, `Pytorch`, `Keras`
 
+### Homeworks
+| Topic  | Repository Link |
+| ------------- | ------------- | 
+| VAD Optimization and Memory Constraint Time-Series Processing| [`link`](https://github.com/arcangeloC-137/machine_learning_for_iot/tree/main/Homeworks/HW1)|
+| Training and Deployment of a "Go/Stop" Words Classifier  | [`link`](https://github.com/arcangeloC-137/machine_learning_for_iot/tree/main/Homeworks/HW2)|
+
+
+
 ---
 
 A.Y. 2022/23
