@@ -1,6 +1,6 @@
 # ***Machine Learning for IoT***
 
-This repository contains all the assignments and exercises from the course **[Machine Learning for IoT](https://didattica.polito.it/pls/portal30/gap.pkg_guide.viewGap?p_cod_ins=01TXPSM&p_a_acc=2023&p_header=S&p_lang=IT&multi=N)**. 
+This repository contains all the assignments from the course **[Machine Learning for IoT](https://didattica.polito.it/pls/portal30/gap.pkg_guide.viewGap?p_cod_ins=01TXPSM&p_a_acc=2023&p_header=S&p_lang=IT&multi=N)**. 
 
 The course aims to introduce the problems related to the implementation of machine learning applications and algorithms on platforms other than high-performance servers available in the cloud. 
 
