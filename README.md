@@ -9,13 +9,14 @@ The course topics are organized in three main parts:
 2. Machine and Deep Learning in the IoT,
 3. Data exchange.
 
-Technologies adopted: `Tensorflow`, `Pytorch`, `Keras`
+Technologies adopted: `Tensorflow`, `Pytorch`, `Keras`, `CherryPy`
 
 ### Homeworks
-| Topic  | Repository Link |
-| ------------- | ------------- | 
-| VAD Optimization and Memory Constraint Time-Series Processing| [`link`](https://github.com/arcangeloC-137/machine_learning_for_iot/tree/main/Homeworks/HW1)|
-| Training and Deployment of a "Go/Stop" Words Classifier  | [`link`](https://github.com/arcangeloC-137/machine_learning_for_iot/tree/main/Homeworks/HW2)|
+|     | Topic  | Repository Link |
+| :---: | :-------------: | :-------------: | 
+|HW1  | VAD Optimization and Memory Constraint Time-Series Processing| [`link`](https://github.com/arcangeloC-137/machine_learning_for_iot/tree/main/Homeworks/HW1)|
+|HW2| Training and Deployment of a "Go/Stop" Words Classifier  | [`link`](https://github.com/arcangeloC-137/machine_learning_for_iot/tree/main/Homeworks/HW2)|
+|HW3| Data Collection, Communication and Storage | [`link`](https://github.com/arcangeloC-137/machine_learning_for_iot/tree/main/Homeworks/HW3)|
 
 
 
